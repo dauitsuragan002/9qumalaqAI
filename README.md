@@ -1,4 +1,4 @@
-# Togyz Qumalaq AI
+# [Togyz Qumalaq AI](https://togyz-qumalaq-ai.vercel.app/)
 
 ## Project Inspiration
 
