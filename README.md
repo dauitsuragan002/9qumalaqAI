@@ -41,7 +41,3 @@ npm install
 # Start the development server
 npm run dev
 ```
-
-## Project Structure
-
-[Documentation about the code structure will be added here]
