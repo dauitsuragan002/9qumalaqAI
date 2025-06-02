@@ -1,9 +1,7 @@
 # [Togyz Qumalaq AI](https://togyz-qumalaq-ai.vercel.app/)
-
-## Project Inspiration
-
 This project was inspired by the TV series "Реванш" (Revansh), where artificial intelligence challenges humans in chess. In the current era of rapid AI development, we decided to bring this concept to our national game - Togyz Qumalaq. Just as AI has made significant strides in chess, we believe it's time to explore the possibilities of AI in traditional Kazakh board games.
 
+## Game Bar
 ![Game Bar](https://github.com/dauitsuragan002/9qumalaqAI/blob/main/public/app.png)
 
 ## Project Technologies
